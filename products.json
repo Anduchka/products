@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 39.99,
+    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/speaker.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "price": 89.50,
+    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/watch.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Mouse",
+    "price": 15.25,
+    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/mouse.jpg"
+  },
+  {
+    "id": 5,
+    "name": "USB-C Cable",
+    "price": 5.99,
+    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/usb-c.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Laptop Stand",
+    "price": 24.99,
+    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/stand.jpg"
+  }
+]
