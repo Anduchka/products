@@ -3,13 +3,13 @@
     "id": 1,
     "name": "Wireless Headphones",
     "price": 39.99,
-    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/headphones.jpg"
+    "image": "https://raw.githubusercontent.com/Anduchka/products/refs/heads/main/pngtree-wireless-headphone-png-image_15830312.png"
   },
   {
     "id": 2,
     "name": "Bluetooth Speaker",
     "price": 49.99,
-    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/speaker.jpg"
+    "image": "https://raw.githubusercontent.com/Anduchka/products/refs/heads/main/pngimg.com%20-%20wireless_speaker_PNG28.png"
   },
   {
     "id": 3,
