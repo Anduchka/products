@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "name": "Wireless Headphones",
+    "name": "Headphones",
     "price": 39.99,
     "image": "https://raw.githubusercontent.com/Anduchka/products/refs/heads/main/pngtree-wireless-headphone-png-image_15830312.png"
   },
   {
     "id": 2,
-    "name": "Bluetooth Speaker",
+    "name": "Speaker",
     "price": 49.99,
     "image": "https://raw.githubusercontent.com/Anduchka/products/refs/heads/main/pngimg.com%20-%20wireless_speaker_PNG28.png"
   },
@@ -15,24 +15,24 @@
     "id": 3,
     "name": "Smart Watch",
     "price": 89.50,
-    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/watch.jpg"
+    "image": "https://raw.githubusercontent.com/Anduchka/products/refs/heads/main/pngtree-the-smartwatch-banner-png-image_11919210.png"
   },
   {
     "id": 4,
-    "name": "Wireless Mouse",
+    "name": "Mouse",
     "price": 15.25,
-    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/mouse.jpg"
+    "image": "https://raw.githubusercontent.com/Anduchka/products/refs/heads/main/pngimg.com%20-%20computer_mouse_PNG7672.png"
   },
   {
     "id": 5,
     "name": "USB-C Cable",
     "price": 5.99,
-    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/usb-c.jpg"
+    "image": "https://raw.githubusercontent.com/Anduchka/products/refs/heads/main/pngimg.com%20-%20usb_cable_PNG9.png"
   },
   {
     "id": 6,
     "name": "Laptop Stand",
     "price": 24.99,
-    "image": "https://raw.githubusercontent.com/mdbootstrap/mdb-ui-kit/main/img/stand.jpg"
+    "image": "https://raw.githubusercontent.com/Anduchka/products/refs/heads/main/pngtree-laptop-stand-oakywood-png-image_13215864.png"
   }
 ]
